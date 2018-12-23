@@ -24,12 +24,33 @@
     <ClInclude Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\Logging.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\Event.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\Macros.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\ApplicationEvent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\KeyEvent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\MouseEvent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\Logging.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
