@@ -124,11 +124,14 @@
     <ClInclude Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\Logging.h" />
     <ClInclude Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\Macros.h" />
     <ClInclude Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\MouseEvent.h" />
+    <ClInclude Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\Window.h" />
+    <ClInclude Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\WindowsWindow.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\Application.cpp" />
     <ClCompile Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\Game.cpp" />
     <ClCompile Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\Logging.cpp" />
+    <ClCompile Include="..\..\..\..\..\Brandon%27s Engine\Brandons-Engine\Repository\Brandon%27s Engine\Brandon%27s Engine\WindowsWindow.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
